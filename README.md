@@ -1,2 +1,3 @@
 # Nimblecoin
 Nimblecoin
+Nimble
